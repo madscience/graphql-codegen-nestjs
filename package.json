@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@graphql-codegen/testing": "1.17.7",
-    "@types/jest": "26.0.16",
+    "@types/jest": "26.0.19",
     "@types/node": "12.12.47",
     "@typescript-eslint/eslint-plugin": "4.9.1",
     "@typescript-eslint/parser": "4.9.1",
